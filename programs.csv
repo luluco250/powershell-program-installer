@@ -1,0 +1,3 @@
+name,filePath,arguments,url
+Firefox,firefox.exe,/S,https://download.mozilla.org/?product=firefox-latest&os=win64&lang=en-US
+Chrome,chrome.exe,/silent /install,http://dl.google.com/chrome/install/375.126/chrome_installer.exe
